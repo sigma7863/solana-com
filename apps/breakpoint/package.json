@@ -13,7 +13,7 @@
     "clean": "rm -rf node_modules .next coverage"
   },
   "dependencies": {
-    "@sentry/nextjs": "^10.11.0",
+    "@sentry/nextjs": "^10.62.0",
     "@solana-com/ui-chrome": "workspace:*",
     "@solana-foundation/fab-menu": "workspace:*",
     "@vercel/related-projects": "^1.0.1",
@@ -38,7 +38,7 @@
     "@workspace/config-eslint": "workspace:*",
     "@workspace/config-typescript": "workspace:*",
     "jsdom": "^26.1.0",
-    "postcss": "^8.4.49",
+    "postcss": "^8.5.16",
     "tailwindcss": "^4.2.4",
     "typescript": "5.8.3",
     "vitest": "catalog:"
